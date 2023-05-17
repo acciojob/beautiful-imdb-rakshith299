@@ -1,2 +1,31 @@
+.background{
+	background-color: lightgray;
+	background-size: cover;
+	height: 100%;
+	padding: 20px;
+}
 
-/* Your CSS Code here. */
+.heading{
+	text-align: center;
+	
+}
+
+.img-container{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.moviePic{
+	width: 300px;
+	height: 150px;
+	opacity: 1;
+	text-align: center;
+
+}
+
+.movieDetail{
+	position: relative;
+	top: 15px;
+	font-family: cursive;
+}
